@@ -1,5 +1,5 @@
 # Kill-Fix-E
-Bookmarklet for removing fixed elements on rendered pages (_uora.com, _ired.com)
+Bookmarklet for removing fixed elements on annoying pages (_uora.com, _ired.com)
 
 ![kill-fix-e-demonstration](https://cloud.githubusercontent.com/assets/7908723/17918332/d1cd4682-6978-11e6-960f-823cad4c3eef.gif)
 
